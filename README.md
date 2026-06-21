@@ -15,3 +15,4 @@ The technical part is easy. The harder part is asking what the dashboard is actu
 Open to Data Analyst roles in Berlin — happy to walk through the build if you're curious.
 
 #PowerBI #DataAnalytics #HRAnalytics #DAX #DataAnalyst #OpenToWork #Berlin
+<img width="749" height="424" alt="Screenshot 2026-06-21 204259" src="https://github.com/user-attachments/assets/c9b76ea5-3ef5-4c0b-be1a-26780c6a66bc" />
